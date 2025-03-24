@@ -98,7 +98,7 @@ For Windows Store submission, generate an MSIX package:
 ## 🚀 Need Help with Signing APK or IPA for Store Submission?
 Check the official documentation for signing and distribution guidelines:
 - [Android App Signing](https://developer.android.com/studio/publish/app-signing)
-- [iOS Code Signing](https://developer.apple.com/documentation/security/code_signing)
+- [iOS Code Signing](https://developer.apple.com/forums/thread/707080)
 - [Windows App Packaging](https://learn.microsoft.com/en-us/windows/msix/)
 
 ---
