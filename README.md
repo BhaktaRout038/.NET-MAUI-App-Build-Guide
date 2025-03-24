@@ -19,6 +19,17 @@ To verify the installation, use:
 ```sh
  dotnet workload list
 ```
+Example output:
+```
+Installed Workload Id      Manifest Version       Installation Source
+--------------------------------------------------------------------------------
+android                    35.0.50/9.0.100        SDK 9.0.200, VS 17.13.35913.81
+ios                        18.2.9180/9.0.100      SDK 9.0.200, VS 17.13.35913.81
+maccatalyst                18.2.9180/9.0.100      SDK 9.0.200, VS 17.13.35913.81
+maui                       9.0.14/9.0.100         SDK 9.0.200
+maui-windows               9.0.14/9.0.100         SDK 9.0.200, VS 17.13.35913.81
+```
+Use `dotnet workload search` to find additional workloads to install.
 
 ### 3️⃣ Install Platform Dependencies
 - **Android**: Install the Android SDK via Visual Studio Installer.
